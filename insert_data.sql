@@ -1,0 +1,4 @@
+-- insert_data.sql
+-- Inserts the data for the company database.
+-- Ian Kirkpatrick
+-- ITC 341 Homework 7		Mar. 19, 2018

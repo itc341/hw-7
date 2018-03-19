@@ -1,0 +1,4 @@
+-- queries.sql
+-- Runs test queries for the company database.
+-- Ian Kirkpatrick
+-- ITC 341 Homework 7		Mar. 19, 2018
